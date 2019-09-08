@@ -2,7 +2,7 @@
 <body>
 <head>
 <title>
-	Added title
+	The Car Finder
 </title>
 </head>
 </body>
