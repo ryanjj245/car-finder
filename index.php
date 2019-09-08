@@ -1,5 +1,9 @@
 <html>
 <body>
-<head></head>
+<head>
+<title>
+	Added title
+</title>
+</head>
 </body>
 </html>
